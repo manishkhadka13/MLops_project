@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dell/Desktop/GritFeatFellowship/mlflow_proj/mlruns/595118684113357555/63e7694dfd7146c6aae2760c40609164/artifacts
+end_time: 1689312960272
+entry_point_name: ''
+experiment_id: '595118684113357555'
+lifecycle_stage: active
+run_id: 63e7694dfd7146c6aae2760c40609164
+run_name: Regression in balanced data 2023-07-14 11:20:44
+run_uuid: 63e7694dfd7146c6aae2760c40609164
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689312944721
+status: 3
+tags: []
+user_id: Dell
